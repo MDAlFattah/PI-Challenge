@@ -1,7 +1,6 @@
 [![Build Status](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=PI-Challenge)](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/job/PI-Challenge/)
 
-http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/job/PI-Challenge/badge/icon
-
+[![Build Status](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/job/PI-Challenge/badge/icon)](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/job/PI-Challenge/)
 # PI-Challenge
 # 03_06 Solution Connect Jenkins to GitHub
 
