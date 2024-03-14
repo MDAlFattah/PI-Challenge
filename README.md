@@ -1,8 +1,4 @@
-http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=PI-Challenge
-
-[![Build Status](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=PI-Challenge)](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/job/PI-Challenge/)
-
-[![Build Status](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=PI-Challenge)](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/job/PI-Challenge/)
+[![Build Status](https://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=PI-Challenge)](https://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/job/PI-Challenge/)
 
 
 # PI-Challenge
