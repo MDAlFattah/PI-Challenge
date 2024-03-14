@@ -1,3 +1,5 @@
+[![Build Status](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=PI-Challenge)](http://ec2-52-57-79-157.eu-central-1.compute.amazonaws.com/job/PI-Challenge/)
+
 # PI-Challenge
 # 03_06 Solution Connect Jenkins to GitHub
 
@@ -17,5 +19,5 @@ They also want to display the status of that most recent test directly in the re
 _*This challenge should take about 15 to 20 minutes to complete.*_
 
 ## Tips
-- Successfully building the project will create a artifact named `report.txt`.
+- Successfully building the project will create an artifact named `report.txt`.
 - Review the contents of the report for more information.
